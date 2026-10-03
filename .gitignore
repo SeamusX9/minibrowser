@@ -1,0 +1,17 @@
+# Build / packaging
+build/
+dist/
+*.spec
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
